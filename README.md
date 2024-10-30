@@ -1,6 +1,6 @@
 👋Hi, I’m @krithikanaidu
 
- I’m interested in ... currently exploring various fields as I learn
+ Currently exploring various fields as I learn
  
  I’m currently learning ... Data Structures and Algorithms (DSA), Machine Learning (ML), Python, C++, 
                             working on a crash-sensor project, and figuring out Firebase database.
@@ -9,4 +9,3 @@
  
  How to reach me: Discord @vexotrormov
  
- Pronouns: she/her
